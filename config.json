@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "paymentrync",
+        "uuid": 1839861,
+        "checksum": "c8p659"
+    },
+    "settings": {
+        "retries": 2,
+        "enabled": false,
+        "mode": "staging"
+    }
+}
